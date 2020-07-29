@@ -1,4 +1,4 @@
-# Excel-project
+# Excel: Stock portfolio management
 
 Project Requirements  Upon opening an account with your firm clients provide an initial payment of at least $100,000 which will be split between cash and the recommended 
 portfolio of shares. 
